@@ -1,12 +1,33 @@
-# React + Vite
+# 📝 Todo App – React + Framer Motion + Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant Todo Application built with React, styled with Tailwind CSS, and powered by Framer Motion animations.
+The app is fully responsive and provides a clean, interactive way to manage daily tasks.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+➕ Add new tasks
 
-## Expanding the ESLint configuration
+✅ Mark tasks as completed / uncompleted
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🗑️ Delete tasks with smooth animations
+
+📱 Responsive design (mobile, tablet, desktop)
+
+⚡ Lightweight & fast
+
+🛠️ Tech Stack
+
+React – UI library
+
+Tailwind CSS – Styling
+
+Framer Motion – Animations
+
+React Icons – Icons
+
+📂 Folder Structure
+src/
+ ├── components/   # UI components
+ ├── App.jsx       # Main app file
+ ├── index.css     # Tailwind styles
+ └── main.jsx      # Entry point
